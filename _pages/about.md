@@ -21,4 +21,4 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently pursuing both a Bachelors and a Masters Degree in Computer Science at [UCSD](https://ucsd.edu/), and I will graduate in June 2025 and 2026.
 
-I am interested in Machine Learning for Robotics and Generative Artificial Intelligence, and I incredibly excited to share my first paper: [ManiSkill3](https://arxiv.org/abs/2410.00425)
+I am interested in Machine Learning for Robotics and Generative Artificial Intelligence and am incredibly excited to share my first paper: [ManiSkill3](https://arxiv.org/abs/2410.00425)
